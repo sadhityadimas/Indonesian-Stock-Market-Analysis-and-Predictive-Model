@@ -5,3 +5,8 @@ This repo contains Indonesian Stock Market historical price and financial data s
 ## Create IDX Historical Price database
 * fetch historical price of 700 idx stocks
 * crearte updatable database (still in csv form)
+
+## Fetch Financial Report per Stock
+* Balance Sheet
+* Income Statement
+* Cash Flow
